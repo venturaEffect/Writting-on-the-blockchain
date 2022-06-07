@@ -1,0 +1,10 @@
+{
+    "contractName": "WrittingOnTheBlockchain",
+    "abi": [{"inputs":[],"name":"Read","outputs":[{"internalType":"string","name":"","type":"string"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"string","name":"_text","type":"string"}],"name":"Write","outputs":[],"stateMutability":"nonpayable","type":"function"}],
+    "networks": {
+        "3": {
+            "address": "0xdB9aC2812537f67Cf93c537B8980b1A3383b5897",
+            "transactionHash" : "0x39d27b4daf4eea0b7ef6156bd3b97f777089e585eed7a60eeb21d35c2ef3c242"
+        }
+    }
+}
